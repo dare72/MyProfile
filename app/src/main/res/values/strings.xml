@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="about_me">About Me</string>
+    <string name="uw_logo">uw logo</string>
+    <string name="where_i_go_to_school">Where I go to school</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="desc_major">for Computer Science and Systems</string>
+    <string name="learning_and_resource_center">Learng and Resource Center</string>
+    <string name="larc">LARC</string>
+    <string name="click_to_view_my_hobbies">Click to view my Hobbies</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="mmaimage">MMAImage</string>
+    <string name="title_activity_map">Map</string>
+    <string name="mystery_button">Mystery Button</string>
+</resources>
